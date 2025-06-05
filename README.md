@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0F2580&height=120&section=header"/>
 
-## Matheus Vieira - Desenvolvedor Web 🟠🔵🉐
+## Matheus - Desenvolvedor Web 🟠🔵🉐
 
 Desenvolvedor web com expertise em React, Next, Node e Nest. Construo aplicações web eficientes. Tenho experiência em criação de interfaces interativas, escaláveis/reutilizáveis utilizando Next, como também tenho conhecimento a respeito de arquitetura modular/escalável com Nest para aplicações back-end. Trabalhei com projetos envolvendo gestão educacional, API's e banco de dados.
 
